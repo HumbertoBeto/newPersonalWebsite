@@ -1,65 +1,12 @@
 /* index.css */
 
-/* background colors and size for sections */
-#section1 {
-    width: 100%;
-    height: 700px; 
-    color: #fff; 
-    background: url(https://wallpaperscraft.com/image/robert_pattinson_guy_face_pensive_black_white_8776_1920x1080.jpg);
-    background-size: cover;
-    text-align: center;
-}
-#section2 {
-    padding-top:50px;
-    height:500px;color: #fff; 
-    background-color: #673ab7;
-}
-#section3 {
-    padding-top:50px;
-    height:500px;
-    color: #fff; 
-    background-color: #ff9800;
-}
-#section4 {
-    padding-top:50px;
-    height:500px;
-    color: #fff; 
-    background-color: #00ff4e;
-}
-#section5 {
-    padding-top:50px;
-    height:500px;
-    color: #fff; 
-    background-color: #767470;
-    text-align:center;
-}
-/* background colors and size for sections end */
 
-body{
-    position: relative; 
+.carousel-indicators li{
+    text-indent:0;
+    width:200px;
+    height: 40px;
+    border:none;
+    background-color: white;
 }
 
-.navbar-brand
-{
-   font-size: 22px; 
-}
 
-.navbar {
-   background-color: transparent;
-   background: transparent;
-   border-color: transparent;
-   font-weight: bold;
-    font-size: 18px;
-   padding: 10px 15px 10px;
-    padding-top: 10px;
-    padding-right: 15px;
-    padding-bottom: 10px;
-    padding-left: 15px;
-}
-
-.navbar-nav {
- 
-    margin:0 auto;
-    text-align: center;
-   display: inline-block;
-}
