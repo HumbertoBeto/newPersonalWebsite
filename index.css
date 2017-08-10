@@ -6,7 +6,8 @@
     width:200px;
     height: 40px;
     border:none;
-    background-color: white;
+    background-color: transparent;
+    color: white;
 }
 
 
