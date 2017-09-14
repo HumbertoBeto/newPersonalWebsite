@@ -1,13 +1,33 @@
 /* index.css */
 
+body {
+      position: relative; 
+  }
 
-.carousel-indicators li{
-    text-indent:0;
-    width:200px;
-    height: 40px;
-    border:none;
-    background-color: transparent;
-    color: white;
+ #section1 {
+     padding-top:50px;
+     height:500px;
+     color: #000000; 
+     background-color: #fff;
 }
+  #section2 {
+      padding-top:50px;
+      height:500px;
+      color: #fff; 
+      background-color: #000000;
+}
+  #section3 {
+      padding-top:50px;
+      height:500px;
+      color: #000000; 
+      background-color: #fff;
+}
+  #section4 {padding-top:50px;
+      height:500px;
+      color: #fff; 
+      background-color: #000000;
+}
+
+
 
 
